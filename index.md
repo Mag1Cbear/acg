@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这是一个兴趣使然的小站
 
 You can use the [editor on GitHub](https://github.com/Mag1Cbear/acg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
